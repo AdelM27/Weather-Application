@@ -1,0 +1,6 @@
+# Weather-Application
+Weather App
+
+A weather application that can search current weather conditions based on city and country, with current wind/humidity and temprature conditions of the area with a forecast for the current coniditons.
+Run with Python - using run weather_dashboard.py
+Coded in colab this application helps show a graph that allows a user to get an accurate weather prediction for the selected city along with the humidity and wind speed for the geographical location.
